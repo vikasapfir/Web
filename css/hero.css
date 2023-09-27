@@ -1,0 +1,28 @@
+.hero{
+    background: url(../images/illustration.png) no-repeat right;
+}
+
+.hero__inner{
+    width: 480px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.hero__title{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+}
+
+.hero__paragraph{
+    color: #7D7987;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 32px;
+    margin-top: 25px;
+}
+
+.hero__button{
+    margin-top: 50px;
+}
+
