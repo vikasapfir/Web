@@ -1,0 +1,40 @@
+.leading{
+    background: url(../images/trafalgar-illustration\ sec02\ 1.png) no-repeat left;
+}
+
+.leading__inner{
+    width: 480px;
+    padding-bottom: 155px;
+    padding-top: 190px;
+    padding-left: 750px;
+}
+
+.leading__title{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 56px;
+}
+
+.leading__paragraph{
+    color: #7D7987;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 25px;
+}
+
+.leading__title::after {
+    content: "";
+    display: block;
+    background: #000;
+    width: 56px;
+    height: 1.958px;
+    border-radius: 10px;
+    margin-top: 25px; 
+    margin-bottom: 30px;
+    }
+
+.leading__button{
+    margin-top: 50px;
+}
+

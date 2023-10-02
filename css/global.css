@@ -1,0 +1,36 @@
+body{
+    font-family: "Mulish";
+    color: #000;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1250px;
+}
+
+a {
+    text-decoration: none;
+    color: #1F1534;
+}
+
+li {
+    display: block;
+}
+
+button{
+    border: 0px;
+}
+
+.default-button{
+    border-radius: 55px;
+    background: #458FF6;
+    width: 200px;
+    height: 56px;
+    color: #fff;
+}
+
+.default-button.outlined{
+    background: transparent;
+    color:#458FF6;
+    border: 1.4px solid #458FF6;
+}
